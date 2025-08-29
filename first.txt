@@ -1,4 +1,4 @@
-Add to the begining this is the new first line 
+Add to the begining this is the new first line . added to the end
 
 This is my first file
 It is a wonderful file 
